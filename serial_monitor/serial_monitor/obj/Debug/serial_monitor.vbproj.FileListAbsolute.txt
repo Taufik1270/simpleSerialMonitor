@@ -1,0 +1,19 @@
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.vbprojAssemblyReference.cache
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.Form1.resources
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.Resources.resources
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.vbproj.GenerateResource.cache
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.vbproj.CoreCompileInputs.cache
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.Form2.resources
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\serial_monitor.Form3.resources
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.exe.config
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.exe.manifest
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.application
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.exe
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.pdb
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\bin\Debug\simple serial tools.xml
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.TrustInfo.xml
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.exe.manifest
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.application
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.exe
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.xml
+D:\Users\Taufik\source\repos\serial_monitor\serial_monitor\obj\Debug\simple serial tools.pdb
